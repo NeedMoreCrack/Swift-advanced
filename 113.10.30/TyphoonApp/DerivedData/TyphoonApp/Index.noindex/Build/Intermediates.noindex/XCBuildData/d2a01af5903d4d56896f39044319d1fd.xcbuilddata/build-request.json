@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "1dd3e38be11b063f6628ace9ef6a55afeb35df8aa77870b30dc1125e4752d0ca"
+    }
+  ],
+  "containerPath" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/TyphoonApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Products",
+      "pchPath" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

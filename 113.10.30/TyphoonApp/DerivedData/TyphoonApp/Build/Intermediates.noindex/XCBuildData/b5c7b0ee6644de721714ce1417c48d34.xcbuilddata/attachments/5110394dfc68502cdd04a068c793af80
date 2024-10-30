@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonApp-master.dia",
+    "emit-module-dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonApp-master.swiftdeps"
+  },
+  "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/TyphoonApp/ContentView.swift" : {
+    "const-values" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/TyphoonApp/TyphoonAppApp.swift" : {
+    "const-values" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonAppApp.swiftconstvalues",
+    "dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonAppApp.d",
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonAppApp.dia",
+    "index-unit-output-path" : "/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonAppApp.o",
+    "llvm-bc" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonAppApp.bc",
+    "object" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonAppApp.o",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonAppApp.swiftdeps",
+    "swiftmodule" : "/Users/chuanchiawei/Desktop/Swift/Swift Advanced/113.10.30/TyphoonApp/DerivedData/TyphoonApp/Build/Intermediates.noindex/TyphoonApp.build/Debug-iphonesimulator/TyphoonApp.build/Objects-normal/x86_64/TyphoonAppApp~partial.swiftmodule"
+  }
+}

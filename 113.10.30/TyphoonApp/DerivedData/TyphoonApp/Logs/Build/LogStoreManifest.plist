@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>2C67F637-705E-4AF4-9A51-287291EDFAC5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C67F637-705E-4AF4-9A51-287291EDFAC5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TyphoonApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TyphoonApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) TyphoonApp</string>
+			<key>timeStartedRecording</key>
+			<real>751968814.68234599</real>
+			<key>timeStoppedRecording</key>
+			<real>751968831.48428297</real>
+			<key>title</key>
+			<string>Build (Automatic) TyphoonApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2C67F637-705E-4AF4-9A51-287291EDFAC5</string>
+		</dict>
+		<key>5DF696DD-7ED3-467F-BFFE-7B16F4419DB7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5DF696DD-7ED3-467F-BFFE-7B16F4419DB7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TyphoonApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TyphoonApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) TyphoonApp</string>
+			<key>timeStartedRecording</key>
+			<real>751968846.30010295</real>
+			<key>timeStoppedRecording</key>
+			<real>751968847.76749206</real>
+			<key>title</key>
+			<string>Build (Automatic) TyphoonApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5DF696DD-7ED3-467F-BFFE-7B16F4419DB7</string>
+		</dict>
+		<key>98E417DA-8D3E-4A9C-B4F1-F392D9638CD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98E417DA-8D3E-4A9C-B4F1-F392D9638CD3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TyphoonApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TyphoonApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TyphoonApp</string>
+			<key>timeStartedRecording</key>
+			<real>751968888.37721097</real>
+			<key>timeStoppedRecording</key>
+			<real>751968888.56037796</real>
+			<key>title</key>
+			<string>Build TyphoonApp</string>
+			<key>uniqueIdentifier</key>
+			<string>98E417DA-8D3E-4A9C-B4F1-F392D9638CD3</string>
+		</dict>
+		<key>B178C706-8737-47B2-80E9-987FFEBE5EE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B178C706-8737-47B2-80E9-987FFEBE5EE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TyphoonApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TyphoonApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) TyphoonApp</string>
+			<key>timeStartedRecording</key>
+			<real>751968868.25534999</real>
+			<key>timeStoppedRecording</key>
+			<real>751968868.96333003</real>
+			<key>title</key>
+			<string>Build (Automatic) TyphoonApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B178C706-8737-47B2-80E9-987FFEBE5EE5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

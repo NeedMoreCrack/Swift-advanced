@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3F0BE5C0327CB94E81ACDA92B65F6FA5E8AD2CEE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3F0BE5C0327CB94E81ACDA92B65F6FA5E8AD2CEE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A95664EC-BA6B-40EA-827F-BD43A88325D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3F0BE5C0327CB94E81ACDA92B65F6FA5E8AD2CEE" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TyphoonApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "113.10.30\/TyphoonApp\/TyphoonApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NeedMoreCrack\/Swift-advanced.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3F0BE5C0327CB94E81ACDA92B65F6FA5E8AD2CEE"
+    }
+  ]
+}
