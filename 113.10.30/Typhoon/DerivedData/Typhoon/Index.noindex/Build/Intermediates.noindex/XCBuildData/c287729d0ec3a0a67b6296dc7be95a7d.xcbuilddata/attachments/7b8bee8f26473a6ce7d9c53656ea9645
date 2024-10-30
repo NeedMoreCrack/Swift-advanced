@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift foundation/113.10.30/Typhoon/DerivedData/Typhoon/Index.noindex/Build/Intermediates.noindex/Typhoon.build/Debug-iphoneos/Typhoon.build/Objects-normal/arm64/Typhoon-master.d",
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/Swift foundation/113.10.30/Typhoon/DerivedData/Typhoon/Index.noindex/Build/Intermediates.noindex/Typhoon.build/Debug-iphoneos/Typhoon.build/Objects-normal/arm64/Typhoon-master.dia",
+    "emit-module-dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift foundation/113.10.30/Typhoon/DerivedData/Typhoon/Index.noindex/Build/Intermediates.noindex/Typhoon.build/Debug-iphoneos/Typhoon.build/Objects-normal/arm64/Typhoon-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chuanchiawei/Desktop/Swift/Swift foundation/113.10.30/Typhoon/DerivedData/Typhoon/Index.noindex/Build/Intermediates.noindex/Typhoon.build/Debug-iphoneos/Typhoon.build/Objects-normal/arm64/Typhoon-master-emit-module.dia",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/Swift foundation/113.10.30/Typhoon/DerivedData/Typhoon/Index.noindex/Build/Intermediates.noindex/Typhoon.build/Debug-iphoneos/Typhoon.build/Objects-normal/arm64/Typhoon-master.swiftdeps"
+  },
+  "/Users/chuanchiawei/Desktop/Swift/Swift foundation/113.10.30/Typhoon/DerivedData/Typhoon/Index.noindex/Build/Intermediates.noindex/Typhoon.build/Debug-iphoneos/Typhoon.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/chuanchiawei/Desktop/Swift/Swift foundation/113.10.30/Typhoon/Typhoon/ContentView.swift" : {
+
+  },
+  "/Users/chuanchiawei/Desktop/Swift/Swift foundation/113.10.30/Typhoon/Typhoon/TyphoonApp.swift" : {
+
+  }
+}
