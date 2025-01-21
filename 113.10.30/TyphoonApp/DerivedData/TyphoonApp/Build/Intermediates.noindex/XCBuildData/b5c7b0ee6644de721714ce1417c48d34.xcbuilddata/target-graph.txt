@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'TyphoonApp' in project 'TyphoonApp' (no dependencies)
